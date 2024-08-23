@@ -10,8 +10,8 @@ const perguntas = [
      alternativas:[
     
 
-     ]
-    },
+     
+    }
     {
     texto:"A poluição pode aumentar o risco de doenças respiratórias e cardiovasculares",
     afirmacao:["A exposição prolongada à poluição do ae pode diminuir a capacidade pulmonar, afetando o desempenho esportivo."
